@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Apps (frontend only)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Apps (fullstack)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Desktop Apps"
+    },
+    {
+      "description": "still searching",
+      "items": [],
+      "title": "Mobile Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Games"
+    },
+    {
+      "description": "To the extent possible under law, John Faucett has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:45:52.703Z",
+    "original_repository": "DataDaoDe/awesome-foss-apps",
+    "original_repository_sha": "714a2815df908e79e3b4ff7d2e30963d910bcf80",
+    "enhanced_repository": "enhansome/enhansome-foss-apps",
+    "enhanced_repository_description": null,
+    "title": "Awesome FOSS apps with stars"
+  }
+}
