@@ -4,7 +4,7 @@
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,066 | 🐛 103 | 📅 2026-06-30.*
+*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,498 | 🐛 102 | 📅 2026-08-18.*
 
 ## TOC
 
@@ -39,7 +39,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Precursor is a highly interactive prototyping webapp. Its frontend is built from the ground up with clojurescript. The project has a simple enough routing and event passing system such that newer clojurescript developers could easily understand how routing in clojurescript applications can work. It is also full of many examples of how to build a component based frontend architecture that is part of an interactive graphics application i.e. where many components manipulate the HTML5 canvas or work with HTML5 APIs.
 
-### [The Guardian](https://github.com/guardian/frontend) ⭐ 5,897 | 🐛 194 | 🌐 Scala | 📅 2026-08-17
+### [The Guardian](https://github.com/guardian/frontend) ⭐ 5,897 | 🐛 191 | 🌐 Scala | 📅 2026-08-18
 
 * play2, scala, node
 * Apache 2.0 License
@@ -50,21 +50,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 54,791 | 🐛 127 | 🌐 JavaScript | 📅 2026-08-18
+### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 54,794 | 🐛 124 | 🌐 JavaScript | 📅 2026-08-19
 
 * node, express, ember
 * MIT License
 
 > Ghost provides a simple publishing platform for bloggers. The code contains an emberjs client and node server backend that handle authorization, role management, tagging, blog posting, data persistence, and most things you'd expect from a quality blogging platform. The only thing that Ghost doesn't handle is i18n. It also contains a comprehensive test suite with both integration and unit tests that hit the whole ember/node stack.
 
-### [Gitlab](https://github.com/gitlabhq/gitlabhq) ⭐ 24,532 | 🐛 37 | 🌐 Ruby | 📅 2026-08-18
+### [Gitlab](https://github.com/gitlabhq/gitlabhq) ⭐ 24,533 | 🐛 37 | 🌐 Ruby | 📅 2026-08-19
 
 * ruby, rails, coffescript, redis, sidekiq,
 * MIT License
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 47,668 | 🐛 234 | 🌐 Ruby | 📅 2026-08-18
+### [Discourse](https://github.com/discourse/discourse) ⭐ 47,671 | 🐛 244 | 🌐 Ruby | 📅 2026-08-19
 
 * ruby, rails, ember
 * GPLv2 License
@@ -92,21 +92,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Travis CI is a continutous integration and deployment system. What's great about Travis is its modular architecture, every component of this large distributed system is split up by its main function. From worker management, rails backend, emberjs frontend to yaml configuration parser, each is split up into there own repositories.
 
-### [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,505 | 🐛 122 | 🌐 Go | 📅 2026-08-17
+### [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,517 | 🐛 122 | 🌐 Go | 📅 2026-08-19
 
 * golang, react
 * AGPLv3 License
 
 > Filestash is a web based file manager that supports a range of protocols and platforms: FTP, SFTP, S3, Minio, Git, WebDAV, Backblaze, Dropbox, Google Drive, LDAP, CalDAV, CardDAV.
 
-### [Dnote](https://github.com/dnote/dnote) ⭐ 3,054 | 🐛 40 | 🌐 Go | 📅 2026-07-25
+### [Dnote](https://github.com/dnote/dnote) ⭐ 3,055 | 🐛 40 | 🌐 Go | 📅 2026-07-25
 
 * golang, react, typescript
 * GPLv3 License, AGPLv3 License
 
 > Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.
 
-### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,253 | 🐛 53 | 🌐 Python | 📅 2026-08-11
+### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,259 | 🐛 53 | 🌐 Python | 📅 2026-08-18
 
 * python, django, postgresql
 * BSD License
@@ -131,7 +131,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a cross-platform runnable binary. It also contains an exemplary test suite for electron apps.
 
-### [Daytona](https://github.com/daytonaio/daytona) ⭐ 71,979 | 🐛 442 | 📅 2026-07-24
+### [Daytona](https://github.com/daytonaio/daytona) ⭐ 71,973 | 🐛 442 | 📅 2026-07-24
 
 * go
 * Apache 2.0 License
@@ -162,7 +162,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
-### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,825 | 🐛 1,490 | 🌐 C++ | 📅 2026-08-18
+### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,826 | 🐛 1,488 | 🌐 C++ | 📅 2026-08-18
 
 * c, c++, lua
 * GPLv2 License
@@ -177,4 +177,4 @@ To the extent possible under law, John Faucett has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
