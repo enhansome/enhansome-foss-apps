@@ -1,39 +1,232 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Codesandbox is an online IDE for web developers to quickly prototype and implement frontend applications using modern javascript frameworks like Vue, Preact, React etc Or even vanilla javascript.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 77455983,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T11:28:12Z",
+            "owner": "codesandbox",
+            "repo": "codesandbox-client",
+            "stars": 13633
+          },
+          "title": "Codesandbox"
+        },
+        {
+          "children": [],
+          "description": "Precursor is a highly interactive prototyping webapp. Its frontend is built from the ground up with clojurescript. The project has a simple enough routing and event passing system such that newer clojurescript developers could easily understand how routing in clojurescript applications can work. It is also full of many examples of how to build a component based frontend architecture that is part of an interactive graphics application i.e. where many components manipulate the HTML5 canvas or work with HTML5 APIs.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 24519017,
+            "language": "Clojure",
+            "last_commit": "2024-05-17T21:30:33Z",
+            "owner": "PrecursorApp",
+            "repo": "precursor",
+            "stars": 606
+          },
+          "title": "Precursor App"
+        },
+        {
+          "children": [],
+          "description": "The guardian is a news site with subscriptions, sign in, search, an admin interface and a series of middleman scala apps that handle communication between the static frontends and backend APIs. Its very fast and has a comprehensive test suite plus great examples of how to optimize large traditional websites for speed.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 4370755,
+            "language": "Scala",
+            "last_commit": "2026-08-19T11:37:23Z",
+            "owner": "guardian",
+            "repo": "frontend",
+            "stars": 5897
+          },
+          "title": "The Guardian"
+        },
+        {
+          "children": [],
+          "description": "Ghost provides a simple publishing platform for bloggers. The code contains an emberjs client and node server backend that handle authorization, role management, tagging, blog posting, data persistence, and most things you'd expect from a quality blogging platform. The only thing that Ghost doesn't handle is i18n. It also contains a comprehensive test suite with both integration and unit tests that hit the whole ember/node stack.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 9852918,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T12:27:34Z",
+            "owner": "TryGhost",
+            "repo": "Ghost",
+            "stars": 54796
+          },
+          "title": "Ghost"
+        },
+        {
+          "children": [],
+          "description": "Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 2500088,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T12:18:32Z",
+            "owner": "gitlabhq",
+            "repo": "gitlabhq",
+            "stars": 24532
+          },
+          "title": "Gitlab"
+        },
+        {
+          "children": [],
+          "description": "Discourse is a discussion platform or a modern take on the web forum. It has a very modular system built on top of rails and contains great examples of how to build an interactive frontend in ember within a rails application. It has an admin interface, signup/sign-in with Oauth for Google, Facebook, Twitter, Yahoo, and Github. It has extensive i18n, real time notifications, a plugin ecosystem, is SEO optimized, and is designed for tablet and mobile devices.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 7569578,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T12:24:56Z",
+            "owner": "discourse",
+            "repo": "discourse",
+            "stars": 47674
+          },
+          "title": "Discourse"
+        },
+        {
+          "children": [],
+          "description": "Filestash is a web based file manager that supports a range of protocols and platforms: FTP, SFTP, S3, Minio, Git, WebDAV, Backblaze, Dropbox, Google Drive, LDAP, CalDAV, CardDAV.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 94173064,
+            "language": "Go",
+            "last_commit": "2026-08-19T06:34:29Z",
+            "owner": "mickael-kerjean",
+            "repo": "filestash",
+            "stars": 14522
+          },
+          "title": "Filestash"
+        },
+        {
+          "children": [],
+          "description": "Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 86756976,
+            "language": "Go",
+            "last_commit": "2026-07-25T04:25:52Z",
+            "owner": "dnote",
+            "repo": "dnote",
+            "stars": 3055
+          },
+          "title": "Dnote"
+        },
+        {
+          "children": [],
+          "description": "Healthchecks is a cron job monitoring service. It listens for HTTP requests and email messages (\"pings\") from your cron jobs and scheduled tasks (\"checks\"). When a ping does not arrive on time, Healthchecks sends out alerts.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 38067078,
+            "language": "Python",
+            "last_commit": "2026-08-19T12:12:58Z",
+            "owner": "healthchecks",
+            "repo": "healthchecks",
+            "stars": 10260
+          },
+          "title": "Healthchecks"
+        }
+      ],
       "title": "Web Apps (frontend only)"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Web Apps (fullstack)"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a cross-platform runnable binary. It also contains an exemplary test suite for electron apps.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 3228505,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T10:49:48Z",
+            "owner": "atom",
+            "repo": "atom",
+            "stars": 60778
+          },
+          "title": "Atom"
+        },
+        {
+          "children": [],
+          "description": "Daytona is a radically simple open source development environment manager. It automates the entire process of setting up development environments; provisioning the instance, interpreting and applying the configuration, setting up prebuilds, establishing a secure VPN connection, securely connecting your local or a Web IDE, and assigning a fully qualified domain name to the development environment for easy sharing and collaboration.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 753490180,
+            "language": null,
+            "last_commit": "2026-07-24T07:12:07Z",
+            "owner": "daytonaio",
+            "repo": "daytona",
+            "stars": 71966
+          },
+          "title": "Daytona"
+        },
+        {
+          "children": [],
+          "description": "0 A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 1016904,
+            "language": "C++",
+            "last_commit": "2024-08-17T03:00:37Z",
+            "owner": "0ad",
+            "repo": "0ad",
+            "stars": 2823
+          },
+          "title": "0ad"
+        },
+        {
+          "children": [],
+          "description": "Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 11591232,
+            "language": "Lua",
+            "last_commit": "2026-08-15T06:25:12Z",
+            "owner": "hedgewars",
+            "repo": "hw",
+            "stars": 554
+          },
+          "title": "Hedgewars"
+        },
+        {
+          "children": [],
+          "description": "The Battle for Wesnoth is a turn-based tactical strategy game with a high fantasy theme. It features single player and online multiplayer combat. Its GUI and gameplay graphics are impressive as well as its multi-platform support (it even builds on NaCL). It has clean, well-coded examples of pretty much everything a game developer would want to know, from a an embedded lua scripting engine, to a dialog and GUI system, to a c++ test suite and cross-platform builds.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 9432220,
+            "language": "C++",
+            "last_commit": "2026-08-19T06:25:56Z",
+            "owner": "wesnoth",
+            "repo": "wesnoth",
+            "stars": 6831
+          },
+          "title": "Wesnoth"
+        }
+      ],
       "title": "Desktop Apps"
-    },
-    {
-      "description": "still searching",
-      "items": [],
-      "title": "Mobile Apps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Games"
-    },
-    {
-      "description": "To the extent possible under law, John Faucett has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:51:40.192Z",
+    "last_updated": "2026-08-19T12:30:19.542Z",
     "original_repository": "DataDaoDe/awesome-foss-apps",
+    "original_repository_id": 38132908,
     "original_repository_sha": "714a2815df908e79e3b4ff7d2e30963d910bcf80",
     "enhanced_repository": "enhansome/enhansome-foss-apps",
     "enhanced_repository_description": null,
