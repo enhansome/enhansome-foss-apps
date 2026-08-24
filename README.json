@@ -14,7 +14,7 @@
             "last_commit": "2026-07-15T11:28:12Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13636
+            "stars": 13637
           },
           "title": "Codesandbox"
         },
@@ -41,7 +41,7 @@
             "archived": false,
             "id": 4370755,
             "language": "Scala",
-            "last_commit": "2026-08-21T15:55:53Z",
+            "last_commit": "2026-08-24T14:10:54Z",
             "owner": "guardian",
             "repo": "frontend",
             "stars": 5898
@@ -56,10 +56,10 @@
             "archived": false,
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T04:33:14Z",
+            "last_commit": "2026-08-24T14:22:39Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55049
+            "stars": 55051
           },
           "title": "Ghost"
         },
@@ -71,7 +71,7 @@
             "archived": false,
             "id": 2500088,
             "language": "Ruby",
-            "last_commit": "2026-08-24T03:08:22Z",
+            "last_commit": "2026-08-24T12:09:13Z",
             "owner": "gitlabhq",
             "repo": "gitlabhq",
             "stars": 24535
@@ -86,10 +86,10 @@
             "archived": false,
             "id": 7569578,
             "language": "Ruby",
-            "last_commit": "2026-08-24T04:23:31Z",
+            "last_commit": "2026-08-24T14:16:59Z",
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47715
+            "stars": 47718
           },
           "title": "Discourse"
         },
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-21T16:34:36Z",
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14537
+            "stars": 14539
           },
           "title": "Filestash"
         },
@@ -119,7 +119,7 @@
             "last_commit": "2026-07-25T04:25:52Z",
             "owner": "dnote",
             "repo": "dnote",
-            "stars": 3066
+            "stars": 3067
           },
           "title": "Dnote"
         },
@@ -134,7 +134,7 @@
             "last_commit": "2026-08-21T16:49:45Z",
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10279
+            "stars": 10280
           },
           "title": "Healthchecks"
         }
@@ -155,7 +155,7 @@
             "last_commit": "2023-01-03T10:49:48Z",
             "owner": "atom",
             "repo": "atom",
-            "stars": 60775
+            "stars": 60774
           },
           "title": "Atom"
         },
@@ -170,7 +170,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71905
+            "stars": 71891
           },
           "title": "Daytona"
         },
@@ -215,7 +215,7 @@
             "last_commit": "2026-08-23T20:38:28Z",
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6842
+            "stars": 6841
           },
           "title": "Wesnoth"
         }
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:01:12.087Z",
+    "last_updated": "2026-08-24T14:28:09.876Z",
     "original_repository": "DataDaoDe/awesome-foss-apps",
     "original_repository_id": 38132908,
     "original_repository_sha": "714a2815df908e79e3b4ff7d2e30963d910bcf80",
