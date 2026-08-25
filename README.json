@@ -11,10 +11,10 @@
             "archived": false,
             "id": 77455983,
             "language": "JavaScript",
-            "last_commit": "2026-07-15T11:28:12Z",
+            "last_commit": "2026-08-24T19:32:07Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13637
+            "stars": 13638
           },
           "title": "Codesandbox"
         },
@@ -41,10 +41,10 @@
             "archived": false,
             "id": 4370755,
             "language": "Scala",
-            "last_commit": "2026-08-24T14:10:54Z",
+            "last_commit": "2026-08-24T23:03:49Z",
             "owner": "guardian",
             "repo": "frontend",
-            "stars": 5898
+            "stars": 5899
           },
           "title": "The Guardian"
         },
@@ -56,10 +56,10 @@
             "archived": false,
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:22:39Z",
+            "last_commit": "2026-08-25T04:30:37Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55051
+            "stars": 55054
           },
           "title": "Ghost"
         },
@@ -71,10 +71,10 @@
             "archived": false,
             "id": 2500088,
             "language": "Ruby",
-            "last_commit": "2026-08-24T12:09:13Z",
+            "last_commit": "2026-08-25T03:08:52Z",
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24535
+            "stars": 24536
           },
           "title": "Gitlab"
         },
@@ -86,10 +86,10 @@
             "archived": false,
             "id": 7569578,
             "language": "Ruby",
-            "last_commit": "2026-08-24T14:16:59Z",
+            "last_commit": "2026-08-25T04:50:37Z",
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47718
+            "stars": 47722
           },
           "title": "Discourse"
         },
@@ -101,10 +101,10 @@
             "archived": false,
             "id": 94173064,
             "language": "Go",
-            "last_commit": "2026-08-21T16:34:36Z",
+            "last_commit": "2026-08-25T03:43:40Z",
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14539
+            "stars": 14543
           },
           "title": "Filestash"
         },
@@ -119,7 +119,7 @@
             "last_commit": "2026-07-25T04:25:52Z",
             "owner": "dnote",
             "repo": "dnote",
-            "stars": 3067
+            "stars": 3069
           },
           "title": "Dnote"
         },
@@ -134,7 +134,7 @@
             "last_commit": "2026-08-21T16:49:45Z",
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10280
+            "stars": 10282
           },
           "title": "Healthchecks"
         }
@@ -170,7 +170,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71891
+            "stars": 71889
           },
           "title": "Daytona"
         },
@@ -212,10 +212,10 @@
             "archived": false,
             "id": 9432220,
             "language": "C++",
-            "last_commit": "2026-08-23T20:38:28Z",
+            "last_commit": "2026-08-25T02:38:46Z",
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6841
+            "stars": 6842
           },
           "title": "Wesnoth"
         }
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:09.876Z",
+    "last_updated": "2026-08-25T04:53:30.485Z",
     "original_repository": "DataDaoDe/awesome-foss-apps",
     "original_repository_id": 38132908,
     "original_repository_sha": "714a2815df908e79e3b4ff7d2e30963d910bcf80",
