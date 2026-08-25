@@ -4,7 +4,7 @@
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,679 | 🐛 106 | 📅 2026-08-21.*
+*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,704 | 🐛 106 | 📅 2026-08-21.*
 
 ## TOC
 
@@ -64,7 +64,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 47,722 | 🐛 288 | 🌐 Ruby | 📅 2026-08-25
+### [Discourse](https://github.com/discourse/discourse) ⭐ 47,723 | 🐛 288 | 🌐 Ruby | 📅 2026-08-25
 
 * ruby, rails, ember
 * GPLv2 License
@@ -131,7 +131,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a cross-platform runnable binary. It also contains an exemplary test suite for electron apps.
 
-### [Daytona](https://github.com/daytonaio/daytona) ⭐ 71,889 | 🐛 445 | 📅 2026-07-24
+### [Daytona](https://github.com/daytonaio/daytona) ⭐ 71,887 | 🐛 445 | 📅 2026-07-24
 
 * go
 * Apache 2.0 License

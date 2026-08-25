@@ -71,7 +71,7 @@
             "archived": false,
             "id": 2500088,
             "language": "Ruby",
-            "last_commit": "2026-08-25T03:08:52Z",
+            "last_commit": "2026-08-25T06:09:19Z",
             "owner": "gitlabhq",
             "repo": "gitlabhq",
             "stars": 24536
@@ -86,10 +86,10 @@
             "archived": false,
             "id": 7569578,
             "language": "Ruby",
-            "last_commit": "2026-08-25T04:50:37Z",
+            "last_commit": "2026-08-25T06:17:19Z",
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47722
+            "stars": 47723
           },
           "title": "Discourse"
         },
@@ -170,7 +170,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71889
+            "stars": 71887
           },
           "title": "Daytona"
         },
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:53:30.485Z",
+    "last_updated": "2026-08-25T06:20:44.367Z",
     "original_repository": "DataDaoDe/awesome-foss-apps",
     "original_repository_id": 38132908,
     "original_repository_sha": "714a2815df908e79e3b4ff7d2e30963d910bcf80",
