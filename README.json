@@ -14,7 +14,7 @@
             "last_commit": "2026-08-25T13:13:18Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13637
+            "stars": 13638
           },
           "title": "Codesandbox"
         },
@@ -41,7 +41,7 @@
             "archived": false,
             "id": 4370755,
             "language": "Scala",
-            "last_commit": "2026-08-25T16:04:48Z",
+            "last_commit": "2026-08-27T10:57:46Z",
             "owner": "guardian",
             "repo": "frontend",
             "stars": 5899
@@ -56,10 +56,10 @@
             "archived": false,
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T04:39:29Z",
+            "last_commit": "2026-08-27T11:28:56Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55061
+            "stars": 55072
           },
           "title": "Ghost"
         },
@@ -71,10 +71,10 @@
             "archived": false,
             "id": 2500088,
             "language": "Ruby",
-            "last_commit": "2026-08-26T04:18:19Z",
+            "last_commit": "2026-08-27T09:34:18Z",
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24537
+            "stars": 24540
           },
           "title": "Gitlab"
         },
@@ -86,10 +86,10 @@
             "archived": false,
             "id": 7569578,
             "language": "Ruby",
-            "last_commit": "2026-08-26T04:49:21Z",
+            "last_commit": "2026-08-27T11:29:47Z",
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47732
+            "stars": 47739
           },
           "title": "Discourse"
         },
@@ -101,10 +101,10 @@
             "archived": false,
             "id": 94173064,
             "language": "Go",
-            "last_commit": "2026-08-25T14:47:51Z",
+            "last_commit": "2026-08-27T11:20:04Z",
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14549
+            "stars": 14555
           },
           "title": "Filestash"
         },
@@ -119,7 +119,7 @@
             "last_commit": "2026-07-25T04:25:52Z",
             "owner": "dnote",
             "repo": "dnote",
-            "stars": 3070
+            "stars": 3071
           },
           "title": "Dnote"
         },
@@ -134,7 +134,7 @@
             "last_commit": "2026-08-21T16:49:45Z",
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10286
+            "stars": 10289
           },
           "title": "Healthchecks"
         }
@@ -155,7 +155,7 @@
             "last_commit": "2023-01-03T10:49:48Z",
             "owner": "atom",
             "repo": "atom",
-            "stars": 60773
+            "stars": 60770
           },
           "title": "Atom"
         },
@@ -170,7 +170,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71875
+            "stars": 71865
           },
           "title": "Daytona"
         },
@@ -212,10 +212,10 @@
             "archived": false,
             "id": 9432220,
             "language": "C++",
-            "last_commit": "2026-08-25T15:26:40Z",
+            "last_commit": "2026-08-27T06:28:52Z",
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6844
+            "stars": 6843
           },
           "title": "Wesnoth"
         }
@@ -224,9 +224,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:55:25.743Z",
-    "original_repository": "DataDaoDe/awesome-foss-apps",
-    "original_repository_id": 38132908,
+    "last_updated": "2026-08-27T11:40:38.235Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 38132908,
+      "language": null,
+      "last_commit": "2024-08-07T12:45:04Z",
+      "owner": "DataDaoDe",
+      "repo": "awesome-foss-apps",
+      "stars": 391
+    },
     "original_repository_sha": "714a2815df908e79e3b4ff7d2e30963d910bcf80",
     "enhanced_repository": "enhansome/enhansome-foss-apps",
     "enhanced_repository_description": null,
