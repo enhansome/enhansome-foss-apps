@@ -4,7 +4,7 @@
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,362 | 🐛 105 | 📅 2026-08-21.*
+*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,412 | 🐛 105 | 📅 2026-08-21.*
 
 ## TOC
 
@@ -39,7 +39,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Precursor is a highly interactive prototyping webapp. Its frontend is built from the ground up with clojurescript. The project has a simple enough routing and event passing system such that newer clojurescript developers could easily understand how routing in clojurescript applications can work. It is also full of many examples of how to build a component based frontend architecture that is part of an interactive graphics application i.e. where many components manipulate the HTML5 canvas or work with HTML5 APIs.
 
-### [The Guardian](https://github.com/guardian/frontend) ⭐ 5,899 | 🐛 212 | 🌐 Scala | 📅 2026-08-27
+### [The Guardian](https://github.com/guardian/frontend) ⭐ 5,899 | 🐛 213 | 🌐 Scala | 📅 2026-08-27
 
 * play2, scala, node
 * Apache 2.0 License
@@ -50,7 +50,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,072 | 🐛 142 | 🌐 JavaScript | 📅 2026-08-27
+### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,071 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-27
 
 * node, express, ember
 * MIT License
@@ -64,7 +64,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 47,739 | 🐛 275 | 🌐 Ruby | 📅 2026-08-27
+### [Discourse](https://github.com/discourse/discourse) ⭐ 47,740 | 🐛 279 | 🌐 Ruby | 📅 2026-08-27
 
 * ruby, rails, ember
 * GPLv2 License
@@ -106,7 +106,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.
 
-### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,289 | 🐛 53 | 🌐 Python | 📅 2026-08-21
+### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,289 | 🐛 53 | 🌐 Python | 📅 2026-08-27
 
 * python, django, postgresql
 * BSD License
@@ -131,7 +131,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a cross-platform runnable binary. It also contains an exemplary test suite for electron apps.
 
-### [Daytona](https://github.com/daytonaio/daytona) ⭐ 71,865 | 🐛 447 | 📅 2026-07-24
+### [Daytona](https://github.com/daytonaio/daytona) ⭐ 71,860 | 🐛 447 | 📅 2026-07-24
 
 * go
 * Apache 2.0 License

@@ -41,7 +41,7 @@
             "archived": false,
             "id": 4370755,
             "language": "Scala",
-            "last_commit": "2026-08-27T10:57:46Z",
+            "last_commit": "2026-08-27T13:31:03Z",
             "owner": "guardian",
             "repo": "frontend",
             "stars": 5899
@@ -56,10 +56,10 @@
             "archived": false,
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:28:56Z",
+            "last_commit": "2026-08-27T15:04:59Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55072
+            "stars": 55071
           },
           "title": "Ghost"
         },
@@ -71,7 +71,7 @@
             "archived": false,
             "id": 2500088,
             "language": "Ruby",
-            "last_commit": "2026-08-27T09:34:18Z",
+            "last_commit": "2026-08-27T15:08:20Z",
             "owner": "gitlabhq",
             "repo": "gitlabhq",
             "stars": 24540
@@ -86,10 +86,10 @@
             "archived": false,
             "id": 7569578,
             "language": "Ruby",
-            "last_commit": "2026-08-27T11:29:47Z",
+            "last_commit": "2026-08-27T15:14:06Z",
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47739
+            "stars": 47740
           },
           "title": "Discourse"
         },
@@ -131,7 +131,7 @@
             "archived": false,
             "id": 38067078,
             "language": "Python",
-            "last_commit": "2026-08-21T16:49:45Z",
+            "last_commit": "2026-08-27T13:47:19Z",
             "owner": "healthchecks",
             "repo": "healthchecks",
             "stars": 10289
@@ -170,7 +170,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71865
+            "stars": 71860
           },
           "title": "Daytona"
         },
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:40:38.235Z",
+    "last_updated": "2026-08-27T15:14:43.387Z",
     "original_repository_info": {
       "archived": false,
       "id": 38132908,
