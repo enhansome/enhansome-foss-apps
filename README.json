@@ -16,7 +16,8 @@
             "repo": "codesandbox-client",
             "stars": 13638
           },
-          "title": "Codesandbox"
+          "title": "Codesandbox",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "precursor",
             "stars": 606
           },
-          "title": "Precursor App"
+          "title": "Precursor App",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -41,12 +43,13 @@
             "archived": false,
             "id": 4370755,
             "language": "Scala",
-            "last_commit": "2026-08-27T13:31:03Z",
+            "last_commit": "2026-08-28T15:55:33Z",
             "owner": "guardian",
             "repo": "frontend",
             "stars": 5899
           },
-          "title": "The Guardian"
+          "title": "The Guardian",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -56,12 +59,13 @@
             "archived": false,
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T15:04:59Z",
+            "last_commit": "2026-08-28T15:59:26Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55071
+            "stars": 55076
           },
-          "title": "Ghost"
+          "title": "Ghost",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -71,12 +75,13 @@
             "archived": false,
             "id": 2500088,
             "language": "Ruby",
-            "last_commit": "2026-08-27T15:08:20Z",
+            "last_commit": "2026-08-28T15:18:02Z",
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24540
+            "stars": 24545
           },
-          "title": "Gitlab"
+          "title": "Gitlab",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -86,12 +91,13 @@
             "archived": false,
             "id": 7569578,
             "language": "Ruby",
-            "last_commit": "2026-08-27T15:14:06Z",
+            "last_commit": "2026-08-28T16:31:55Z",
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47740
+            "stars": 47749
           },
-          "title": "Discourse"
+          "title": "Discourse",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -104,9 +110,10 @@
             "last_commit": "2026-08-27T11:20:04Z",
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14555
+            "stars": 14556
           },
-          "title": "Filestash"
+          "title": "Filestash",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -119,9 +126,10 @@
             "last_commit": "2026-07-25T04:25:52Z",
             "owner": "dnote",
             "repo": "dnote",
-            "stars": 3071
+            "stars": 3072
           },
-          "title": "Dnote"
+          "title": "Dnote",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -131,12 +139,13 @@
             "archived": false,
             "id": 38067078,
             "language": "Python",
-            "last_commit": "2026-08-27T13:47:19Z",
+            "last_commit": "2026-08-28T08:58:54Z",
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10289
+            "stars": 10292
           },
-          "title": "Healthchecks"
+          "title": "Healthchecks",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         }
       ],
       "title": "Web Apps (frontend only)"
@@ -155,9 +164,10 @@
             "last_commit": "2023-01-03T10:49:48Z",
             "owner": "atom",
             "repo": "atom",
-            "stars": 60770
+            "stars": 60768
           },
-          "title": "Atom"
+          "title": "Atom",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -170,9 +180,10 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71860
+            "stars": 71863
           },
-          "title": "Daytona"
+          "title": "Daytona",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -185,9 +196,10 @@
             "last_commit": "2024-08-17T03:00:37Z",
             "owner": "0ad",
             "repo": "0ad",
-            "stars": 2823
+            "stars": 2822
           },
-          "title": "0ad"
+          "title": "0ad",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -197,12 +209,13 @@
             "archived": false,
             "id": 11591232,
             "language": "Lua",
-            "last_commit": "2026-08-15T06:25:12Z",
+            "last_commit": "2026-08-28T06:25:13Z",
             "owner": "hedgewars",
             "repo": "hw",
             "stars": 555
           },
-          "title": "Hedgewars"
+          "title": "Hedgewars",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         },
         {
           "children": [],
@@ -212,19 +225,20 @@
             "archived": false,
             "id": 9432220,
             "language": "C++",
-            "last_commit": "2026-08-27T06:28:52Z",
+            "last_commit": "2026-08-28T04:18:55Z",
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6843
+            "stars": 6845
           },
-          "title": "Wesnoth"
+          "title": "Wesnoth",
+          "first_seen": "2026-08-28T16:38:17.768Z"
         }
       ],
       "title": "Desktop Apps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:14:43.387Z",
+    "last_updated": "2026-08-28T16:38:17.768Z",
     "original_repository_info": {
       "archived": false,
       "id": 38132908,
