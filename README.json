@@ -87,7 +87,7 @@
             "id": 9852918,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:29:35Z",
+            "last_commit": "2026-08-29T10:25:29Z",
             "open_issues": 131,
             "owner": "TryGhost",
             "repo": "Ghost",
@@ -117,7 +117,7 @@
             "id": 2500088,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T03:07:45Z",
+            "last_commit": "2026-08-29T09:08:57Z",
             "open_issues": 36,
             "owner": "gitlabhq",
             "repo": "gitlabhq",
@@ -142,11 +142,11 @@
             "id": 7569578,
             "language": "Ruby",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T03:20:04Z",
+            "last_commit": "2026-08-29T08:34:33Z",
             "open_issues": 281,
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47750,
+            "stars": 47751,
             "topics": [
               "discourse",
               "ember",
@@ -245,7 +245,7 @@
             "open_issues": 53,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10292,
+            "stars": 10293,
             "topics": [
               "cron",
               "cron-jobs",
@@ -308,7 +308,7 @@
             "open_issues": 448,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71864,
+            "stars": 71861,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:45:55.207Z",
+    "last_updated": "2026-08-29T11:04:49.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",
