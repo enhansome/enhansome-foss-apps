@@ -65,10 +65,10 @@
             "language": "Scala",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:55:33Z",
-            "open_issues": 210,
+            "open_issues": 209,
             "owner": "guardian",
             "repo": "frontend",
-            "stars": 5899,
+            "stars": 5898,
             "topics": [
               "production"
             ]
@@ -87,11 +87,11 @@
             "id": 9852918,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T08:32:32Z",
-            "open_issues": 131,
+            "last_commit": "2026-08-31T10:49:13Z",
+            "open_issues": 132,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55084,
+            "stars": 55090,
             "topics": [
               "blogging",
               "cms",
@@ -117,11 +117,11 @@
             "id": 2500088,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T09:07:53Z",
+            "last_commit": "2026-08-31T09:18:21Z",
             "open_issues": 36,
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24546,
+            "stars": 24551,
             "topics": [
               "gitlab",
               "rails",
@@ -142,11 +142,11 @@
             "id": 7569578,
             "language": "Ruby",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T22:48:52Z",
-            "open_issues": 287,
+            "last_commit": "2026-08-31T10:23:31Z",
+            "open_issues": 278,
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47758,
+            "stars": 47763,
             "topics": [
               "discourse",
               "ember",
@@ -175,7 +175,7 @@
             "open_issues": 121,
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14560,
+            "stars": 14566,
             "topics": [
               "archiving",
               "azure",
@@ -216,7 +216,7 @@
             "open_issues": 40,
             "owner": "dnote",
             "repo": "dnote",
-            "stars": 3075,
+            "stars": 3076,
             "topics": [
               "cli",
               "command-line-tool",
@@ -241,11 +241,11 @@
             "id": 38067078,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T08:58:54Z",
+            "last_commit": "2026-08-31T10:29:05Z",
             "open_issues": 53,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10293,
+            "stars": 10294,
             "topics": [
               "cron",
               "cron-jobs",
@@ -279,7 +279,7 @@
             "open_issues": 992,
             "owner": "atom",
             "repo": "atom",
-            "stars": 60764,
+            "stars": 60763,
             "topics": [
               "atom",
               "editor",
@@ -308,7 +308,7 @@
             "open_issues": 449,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71860,
+            "stars": 71870,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -376,11 +376,11 @@
             "id": 9432220,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-30T02:07:11Z",
-            "open_issues": 1495,
+            "last_commit": "2026-08-31T01:44:33Z",
+            "open_issues": 1497,
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6850,
+            "stars": 6853,
             "topics": [
               "fantasy",
               "free",
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:56:31.614Z",
+    "last_updated": "2026-08-31T10:51:13.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",
