@@ -68,7 +68,7 @@
             "open_issues": 213,
             "owner": "guardian",
             "repo": "frontend",
-            "stars": 5898,
+            "stars": 5899,
             "topics": [
               "production"
             ]
@@ -87,11 +87,11 @@
             "id": 9852918,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T06:41:16Z",
+            "last_commit": "2026-09-06T08:31:46Z",
             "open_issues": 155,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55168,
+            "stars": 55182,
             "topics": [
               "blogging",
               "cms",
@@ -117,11 +117,11 @@
             "id": 2500088,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T06:07:28Z",
+            "last_commit": "2026-09-05T21:09:49Z",
             "open_issues": 36,
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24551,
+            "stars": 24552,
             "topics": [
               "gitlab",
               "rails",
@@ -142,11 +142,11 @@
             "id": 7569578,
             "language": "Ruby",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-04T23:57:03Z",
-            "open_issues": 252,
+            "last_commit": "2026-09-06T07:49:42Z",
+            "open_issues": 221,
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47790,
+            "stars": 47788,
             "topics": [
               "discourse",
               "ember",
@@ -172,10 +172,10 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-04T15:26:27Z",
-            "open_issues": 121,
+            "open_issues": 122,
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14592,
+            "stars": 14596,
             "topics": [
               "archiving",
               "azure",
@@ -216,7 +216,7 @@
             "open_issues": 40,
             "owner": "dnote",
             "repo": "dnote",
-            "stars": 3080,
+            "stars": 3079,
             "topics": [
               "cli",
               "command-line-tool",
@@ -245,7 +245,7 @@
             "open_issues": 53,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10305,
+            "stars": 10306,
             "topics": [
               "cron",
               "cron-jobs",
@@ -305,10 +305,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-24T07:12:07Z",
-            "open_issues": 453,
+            "open_issues": 455,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71802,
+            "stars": 71782,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -356,7 +356,7 @@
             "language": "Lua",
             "license": "GPL-2.0",
             "last_commit": "2026-08-28T06:25:13Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "hedgewars",
             "repo": "hw",
             "stars": 557,
@@ -376,11 +376,11 @@
             "id": 9432220,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-05T07:16:44Z",
-            "open_issues": 1504,
+            "last_commit": "2026-09-05T14:01:03Z",
+            "open_issues": 1506,
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6858,
+            "stars": 6861,
             "topics": [
               "fantasy",
               "free",
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:21:19.281Z",
+    "last_updated": "2026-09-06T08:39:47.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",
