@@ -18,7 +18,7 @@
             "open_issues": 615,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13640,
+            "stars": 13641,
             "topics": [
               "angular",
               "codesandbox",
@@ -68,7 +68,7 @@
             "open_issues": 226,
             "owner": "guardian",
             "repo": "frontend",
-            "stars": 5898,
+            "stars": 5899,
             "topics": [
               "production"
             ]
@@ -87,11 +87,11 @@
             "id": 9852918,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T08:35:34Z",
-            "open_issues": 188,
+            "last_commit": "2026-09-13T08:33:09Z",
+            "open_issues": 187,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55286,
+            "stars": 55294,
             "topics": [
               "blogging",
               "cms",
@@ -117,7 +117,7 @@
             "id": 2500088,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T03:07:57Z",
+            "last_commit": "2026-09-13T09:08:35Z",
             "open_issues": 36,
             "owner": "gitlabhq",
             "repo": "gitlabhq",
@@ -142,11 +142,11 @@
             "id": 7569578,
             "language": "Ruby",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-12T06:23:36Z",
+            "last_commit": "2026-09-12T23:46:36Z",
             "open_issues": 205,
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47828,
+            "stars": 47832,
             "topics": [
               "discourse",
               "ember",
@@ -175,7 +175,7 @@
             "open_issues": 126,
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14655,
+            "stars": 14658,
             "topics": [
               "archiving",
               "azure",
@@ -245,7 +245,7 @@
             "open_issues": 53,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10323,
+            "stars": 10325,
             "topics": [
               "cron",
               "cron-jobs",
@@ -279,7 +279,7 @@
             "open_issues": 993,
             "owner": "atom",
             "repo": "atom",
-            "stars": 60745,
+            "stars": 60744,
             "topics": [
               "atom",
               "editor",
@@ -308,7 +308,7 @@
             "open_issues": 455,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71724,
+            "stars": 71720,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -376,11 +376,11 @@
             "id": 9432220,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-12T04:28:34Z",
-            "open_issues": 1499,
+            "last_commit": "2026-09-13T00:52:58Z",
+            "open_issues": 1498,
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6873,
+            "stars": 6875,
             "topics": [
               "fantasy",
               "free",
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:38:03.209Z",
+    "last_updated": "2026-09-13T09:32:34.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",
