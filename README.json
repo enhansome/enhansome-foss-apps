@@ -87,11 +87,11 @@
             "id": 9852918,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T23:38:24Z",
-            "open_issues": 202,
+            "last_commit": "2026-10-03T09:05:51Z",
+            "open_issues": 205,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55475,
+            "stars": 55478,
             "topics": [
               "blogging",
               "cms",
@@ -117,7 +117,7 @@
             "id": 2500088,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T00:07:46Z",
+            "last_commit": "2026-10-03T09:08:08Z",
             "open_issues": 36,
             "owner": "gitlabhq",
             "repo": "gitlabhq",
@@ -146,7 +146,7 @@
             "open_issues": 253,
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47932,
+            "stars": 47931,
             "topics": [
               "discourse",
               "ember",
@@ -175,7 +175,7 @@
             "open_issues": 127,
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14759,
+            "stars": 14760,
             "topics": [
               "archiving",
               "azure",
@@ -279,7 +279,7 @@
             "open_issues": 993,
             "owner": "atom",
             "repo": "atom",
-            "stars": 60714,
+            "stars": 60715,
             "topics": [
               "atom",
               "editor",
@@ -308,7 +308,7 @@
             "open_issues": 458,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71674,
+            "stars": 71676,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -377,7 +377,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-09-30T17:04:36Z",
-            "open_issues": 1486,
+            "open_issues": 1485,
             "owner": "wesnoth",
             "repo": "wesnoth",
             "stars": 6899,
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:44:45.489Z",
+    "last_updated": "2026-10-03T09:51:49.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",

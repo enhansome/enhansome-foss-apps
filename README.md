@@ -4,7 +4,7 @@
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02.*
+*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,874 | 🐛 106 | 📅 2026-09-02.*
 
 ## TOC
 
@@ -50,7 +50,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,475 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-02
+### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,478 | 🐛 205 | 🌐 TypeScript | 📅 2026-10-03
 
 * node, express, ember
 * MIT License
@@ -64,7 +64,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 47,932 | 🐛 253 | 🌐 Ruby | 📅 2026-10-02
+### [Discourse](https://github.com/discourse/discourse) ⭐ 47,931 | 🐛 253 | 🌐 Ruby | 📅 2026-10-02
 
 * ruby, rails, ember
 * GPLv2 License
@@ -92,7 +92,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Travis CI is a continutous integration and deployment system. What's great about Travis is its modular architecture, every component of this large distributed system is split up by its main function. From worker management, rails backend, emberjs frontend to yaml configuration parser, each is split up into there own repositories.
 
-### [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,759 | 🐛 127 | 🌐 Go | 📅 2026-10-02
+### [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,760 | 🐛 127 | 🌐 Go | 📅 2026-10-02
 
 * golang, react
 * AGPLv3 License
@@ -131,7 +131,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Atom is a hackable text editor. Its built on top of electron and is a good example of integrating libchromium, nodejs, and web technologies into a cross-platform runnable binary. It also contains an exemplary test suite for electron apps.
 
-### [Daytona](https://github.com/daytonaio/daytona) ⭐ 71,674 | 🐛 458 | 📅 2026-07-24
+### [Daytona](https://github.com/daytonaio/daytona) ⭐ 71,676 | 🐛 458 | 📅 2026-07-24
 
 * go
 * Apache 2.0 License
@@ -162,7 +162,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
-### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,899 | 🐛 1,486 | 🌐 C++ | 📅 2026-09-30
+### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,899 | 🐛 1,485 | 🌐 C++ | 📅 2026-09-30
 
 * c, c++, lua
 * GPLv2 License
