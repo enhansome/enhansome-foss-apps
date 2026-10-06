@@ -4,7 +4,7 @@
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,354 | 🐛 106 | 📅 2026-09-02.*
+*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,380 | 🐛 106 | 📅 2026-09-02.*
 
 ## TOC
 
@@ -50,7 +50,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,491 | 🐛 195 | 🌐 TypeScript | 📅 2026-10-06
+### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,491 | 🐛 193 | 🌐 TypeScript | 📅 2026-10-06
 
 * node, express, ember
 * MIT License
@@ -64,7 +64,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 47,934 | 🐛 262 | 🌐 Ruby | 📅 2026-10-06
+### [Discourse](https://github.com/discourse/discourse) ⭐ 47,934 | 🐛 263 | 🌐 Ruby | 📅 2026-10-06
 
 * ruby, rails, ember
 * GPLv2 License

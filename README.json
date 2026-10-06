@@ -87,8 +87,8 @@
             "id": 9852918,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:10:32Z",
-            "open_issues": 195,
+            "last_commit": "2026-10-06T11:05:55Z",
+            "open_issues": 193,
             "owner": "TryGhost",
             "repo": "Ghost",
             "stars": 55491,
@@ -142,8 +142,8 @@
             "id": 7569578,
             "language": "Ruby",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-06T10:13:38Z",
-            "open_issues": 262,
+            "last_commit": "2026-10-06T11:07:40Z",
+            "open_issues": 263,
             "owner": "discourse",
             "repo": "discourse",
             "stars": 47934,
@@ -308,7 +308,7 @@
             "open_issues": 458,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71642,
+            "stars": 71640,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:22:11.985Z",
+    "last_updated": "2026-10-06T11:16:01.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",
