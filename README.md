@@ -4,7 +4,7 @@
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,160 | 🐛 105 | 📅 2026-09-02.*
+*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,657 | 🐛 105 | 📅 2026-09-02.*
 
 ## TOC
 
@@ -18,7 +18,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Codesandbox](https://github.com/CompuIves/codesandbox-client) ⭐ 13,651 | 🐛 614 | 🌐 JavaScript | 📅 2026-09-07
+### [Codesandbox](https://github.com/CompuIves/codesandbox-client) ⭐ 13,650 | 🐛 614 | 🌐 JavaScript | 📅 2026-09-07
 
 * react, nginx, phoenix
 * GNU General Public License
@@ -50,7 +50,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,552 | 🐛 205 | 🌐 TypeScript | 📅 2026-10-17
+### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,560 | 🐛 206 | 🌐 TypeScript | 📅 2026-10-17
 
 * node, express, ember
 * MIT License
@@ -64,7 +64,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 47,989 | 🐛 246 | 🌐 Ruby | 📅 2026-10-16
+### [Discourse](https://github.com/discourse/discourse) ⭐ 47,988 | 🐛 248 | 🌐 Ruby | 📅 2026-10-18
 
 * ruby, rails, ember
 * GPLv2 License
@@ -92,21 +92,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Travis CI is a continutous integration and deployment system. What's great about Travis is its modular architecture, every component of this large distributed system is split up by its main function. From worker management, rails backend, emberjs frontend to yaml configuration parser, each is split up into there own repositories.
 
-### [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,803 | 🐛 126 | 🌐 Go | 📅 2026-10-16
+### [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,804 | 🐛 126 | 🌐 Go | 📅 2026-10-16
 
 * golang, react
 * AGPLv3 License
 
 > Filestash is a web based file manager that supports a range of protocols and platforms: FTP, SFTP, S3, Minio, Git, WebDAV, Backblaze, Dropbox, Google Drive, LDAP, CalDAV, CardDAV.
 
-### [Dnote](https://github.com/dnote/dnote) ⭐ 3,088 | 🐛 44 | 🌐 Go | 📅 2026-10-13
+### [Dnote](https://github.com/dnote/dnote) ⭐ 3,090 | 🐛 38 | 🌐 Go | 📅 2026-10-17
 
 * golang, react, typescript
 * GPLv3 License, AGPLv3 License
 
 > Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.
 
-### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,425 | 🐛 54 | 🌐 Python | 📅 2026-10-16
+### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,426 | 🐛 55 | 🌐 Python | 📅 2026-10-16
 
 * python, django, postgresql
 * BSD License
@@ -155,14 +155,14 @@ This list is for developers who are looking for non-trivial quality applications
 
 > 0 A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.
 
-### [Hedgewars](https://github.com/hedgewars/hw) ⭐ 569 | 🐛 7 | 🌐 Lua | 📅 2026-09-26
+### [Hedgewars](https://github.com/hedgewars/hw) ⭐ 570 | 🐛 7 | 🌐 Lua | 📅 2026-09-26
 
 * c, c++, pascal, haskell
 * GPLv2 License
 
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
-### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,941 | 🐛 1,493 | 🌐 C++ | 📅 2026-10-12
+### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,941 | 🐛 1,491 | 🌐 C++ | 📅 2026-10-17
 
 * c, c++, lua
 * GPLv2 License
@@ -177,4 +177,4 @@ To the extent possible under law, John Faucett has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
