@@ -4,7 +4,7 @@
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,343 | 🐛 105 | 📅 2026-09-02.*
+*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,830 | 🐛 105 | 📅 2026-09-02.*
 
 ## TOC
 
@@ -18,7 +18,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Codesandbox](https://github.com/CompuIves/codesandbox-client) ⭐ 13,653 | 🐛 614 | 🌐 JavaScript | 📅 2026-10-22
+### [Codesandbox](https://github.com/CompuIves/codesandbox-client) ⭐ 13,652 | 🐛 614 | 🌐 JavaScript | 📅 2026-10-22
 
 * react, nginx, phoenix
 * GNU General Public License
@@ -50,21 +50,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,594 | 🐛 242 | 🌐 TypeScript | 📅 2026-10-22
+### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,599 | 🐛 243 | 🌐 TypeScript | 📅 2026-10-24
 
 * node, express, ember
 * MIT License
 
 > Ghost provides a simple publishing platform for bloggers. The code contains an emberjs client and node server backend that handle authorization, role management, tagging, blog posting, data persistence, and most things you'd expect from a quality blogging platform. The only thing that Ghost doesn't handle is i18n. It also contains a comprehensive test suite with both integration and unit tests that hit the whole ember/node stack.
 
-### [Gitlab](https://github.com/gitlabhq/gitlabhq) ⭐ 24,536 | 🐛 36 | 🌐 Ruby | 📅 2026-10-23
+### [Gitlab](https://github.com/gitlabhq/gitlabhq) ⭐ 24,537 | 🐛 36 | 🌐 Ruby | 📅 2026-10-23
 
 * ruby, rails, coffescript, redis, sidekiq,
 * MIT License
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 47,997 | 🐛 229 | 🌐 Ruby | 📅 2026-10-23
+### [Discourse](https://github.com/discourse/discourse) ⭐ 48,000 | 🐛 242 | 🌐 Ruby | 📅 2026-10-24
 
 * ruby, rails, ember
 * GPLv2 License
@@ -92,21 +92,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Travis CI is a continutous integration and deployment system. What's great about Travis is its modular architecture, every component of this large distributed system is split up by its main function. From worker management, rails backend, emberjs frontend to yaml configuration parser, each is split up into there own repositories.
 
-### [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,818 | 🐛 126 | 🌐 Go | 📅 2026-10-22
+### [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,824 | 🐛 126 | 🌐 Go | 📅 2026-10-22
 
 * golang, react
 * AGPLv3 License
 
 > Filestash is a web based file manager that supports a range of protocols and platforms: FTP, SFTP, S3, Minio, Git, WebDAV, Backblaze, Dropbox, Google Drive, LDAP, CalDAV, CardDAV.
 
-### [Dnote](https://github.com/dnote/dnote) ⭐ 3,090 | 🐛 38 | 🌐 Go | 📅 2026-10-17
+### [Dnote](https://github.com/dnote/dnote) ⭐ 3,089 | 🐛 38 | 🌐 Go | 📅 2026-10-17
 
 * golang, react, typescript
 * GPLv3 License, AGPLv3 License
 
 > Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.
 
-### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,442 | 🐛 56 | 🌐 Python | 📅 2026-10-22
+### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,446 | 🐛 56 | 🌐 Python | 📅 2026-10-22
 
 * python, django, postgresql
 * BSD License
@@ -162,7 +162,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
-### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,948 | 🐛 1,479 | 🌐 C++ | 📅 2026-10-23
+### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,952 | 🐛 1,481 | 🌐 C++ | 📅 2026-10-23
 
 * c, c++, lua
 * GPLv2 License
@@ -177,4 +177,4 @@ To the extent possible under law, John Faucett has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
