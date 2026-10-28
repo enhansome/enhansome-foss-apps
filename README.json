@@ -18,7 +18,7 @@
             "open_issues": 614,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13654,
+            "stars": 13653,
             "topics": [
               "angular",
               "codesandbox",
@@ -64,11 +64,11 @@
             "id": 4370755,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T17:19:45Z",
+            "last_commit": "2026-10-28T10:25:41Z",
             "open_issues": 196,
             "owner": "guardian",
             "repo": "frontend",
-            "stars": 5898,
+            "stars": 5899,
             "topics": [
               "production"
             ]
@@ -87,11 +87,11 @@
             "id": 9852918,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:42:57Z",
-            "open_issues": 221,
+            "last_commit": "2026-10-28T10:23:44Z",
+            "open_issues": 195,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55616,
+            "stars": 55626,
             "topics": [
               "blogging",
               "cms",
@@ -121,7 +121,7 @@
             "open_issues": 36,
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24546,
+            "stars": 24548,
             "topics": [
               "gitlab",
               "rails",
@@ -142,11 +142,11 @@
             "id": 7569578,
             "language": "Ruby",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-27T09:39:23Z",
-            "open_issues": 232,
+            "last_commit": "2026-10-28T10:28:10Z",
+            "open_issues": 253,
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 48020,
+            "stars": 48024,
             "topics": [
               "discourse",
               "ember",
@@ -171,11 +171,11 @@
             "id": 94173064,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T09:28:58Z",
+            "last_commit": "2026-10-27T11:02:22Z",
             "open_issues": 127,
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14831,
+            "stars": 14833,
             "topics": [
               "archiving",
               "azure",
@@ -216,7 +216,7 @@
             "open_issues": 38,
             "owner": "dnote",
             "repo": "dnote",
-            "stars": 3088,
+            "stars": 3089,
             "topics": [
               "cli",
               "command-line-tool",
@@ -241,11 +241,11 @@
             "id": 38067078,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T07:22:59Z",
+            "last_commit": "2026-10-28T07:34:22Z",
             "open_issues": 55,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10459,
+            "stars": 10464,
             "topics": [
               "cron",
               "cron-jobs",
@@ -308,7 +308,7 @@
             "open_issues": 457,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71461,
+            "stars": 71450,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -377,10 +377,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-26T14:04:23Z",
-            "open_issues": 1477,
+            "open_issues": 1478,
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6960,
+            "stars": 6963,
             "topics": [
               "fantasy",
               "free",
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:48:24.323Z",
+    "last_updated": "2026-10-28T10:33:48.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",
