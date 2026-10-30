@@ -18,7 +18,7 @@
             "open_issues": 614,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13654,
+            "stars": 13655,
             "topics": [
               "angular",
               "codesandbox",
@@ -64,7 +64,7 @@
             "id": 4370755,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T10:30:56Z",
+            "last_commit": "2026-10-30T10:50:33Z",
             "open_issues": 197,
             "owner": "guardian",
             "repo": "frontend",
@@ -87,11 +87,11 @@
             "id": 9852918,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T10:45:45Z",
-            "open_issues": 200,
+            "last_commit": "2026-10-30T10:50:21Z",
+            "open_issues": 203,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55631,
+            "stars": 55634,
             "topics": [
               "blogging",
               "cms",
@@ -121,7 +121,7 @@
             "open_issues": 36,
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24547,
+            "stars": 24550,
             "topics": [
               "gitlab",
               "rails",
@@ -142,11 +142,11 @@
             "id": 7569578,
             "language": "Ruby",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-29T10:48:47Z",
-            "open_issues": 258,
+            "last_commit": "2026-10-30T10:42:25Z",
+            "open_issues": 260,
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 48029,
+            "stars": 48033,
             "topics": [
               "discourse",
               "ember",
@@ -175,7 +175,7 @@
             "open_issues": 128,
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14839,
+            "stars": 14847,
             "topics": [
               "archiving",
               "azure",
@@ -216,7 +216,7 @@
             "open_issues": 38,
             "owner": "dnote",
             "repo": "dnote",
-            "stars": 3089,
+            "stars": 3090,
             "topics": [
               "cli",
               "command-line-tool",
@@ -245,7 +245,7 @@
             "open_issues": 55,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10469,
+            "stars": 10475,
             "topics": [
               "cron",
               "cron-jobs",
@@ -279,7 +279,7 @@
             "open_issues": 992,
             "owner": "atom",
             "repo": "atom",
-            "stars": 60710,
+            "stars": 60709,
             "topics": [
               "atom",
               "editor",
@@ -308,7 +308,7 @@
             "open_issues": 457,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71443,
+            "stars": 71430,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -359,7 +359,7 @@
             "open_issues": 7,
             "owner": "hedgewars",
             "repo": "hw",
-            "stars": 573,
+            "stars": 574,
             "topics": []
           },
           "title": "Hedgewars",
@@ -377,10 +377,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-29T02:58:22Z",
-            "open_issues": 1477,
+            "open_issues": 1480,
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6963,
+            "stars": 6968,
             "topics": [
               "fantasy",
               "free",
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:53:12.907Z",
+    "last_updated": "2026-10-30T10:51:24.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",
