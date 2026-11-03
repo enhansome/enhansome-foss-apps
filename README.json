@@ -64,11 +64,11 @@
             "id": 4370755,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T11:49:49Z",
-            "open_issues": 195,
+            "last_commit": "2026-11-03T10:00:54Z",
+            "open_issues": 197,
             "owner": "guardian",
             "repo": "frontend",
-            "stars": 5900,
+            "stars": 5899,
             "topics": [
               "production"
             ]
@@ -87,11 +87,11 @@
             "id": 9852918,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T12:10:06Z",
-            "open_issues": 193,
+            "last_commit": "2026-11-03T11:54:15Z",
+            "open_issues": 203,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55657,
+            "stars": 55663,
             "topics": [
               "blogging",
               "cms",
@@ -142,11 +142,11 @@
             "id": 7569578,
             "language": "Ruby",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-02T12:15:03Z",
-            "open_issues": 281,
+            "last_commit": "2026-11-03T11:49:25Z",
+            "open_issues": 280,
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 48047,
+            "stars": 48046,
             "topics": [
               "discourse",
               "ember",
@@ -175,7 +175,7 @@
             "open_issues": 130,
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14860,
+            "stars": 14864,
             "topics": [
               "archiving",
               "azure",
@@ -216,7 +216,7 @@
             "open_issues": 38,
             "owner": "dnote",
             "repo": "dnote",
-            "stars": 3089,
+            "stars": 3091,
             "topics": [
               "cli",
               "command-line-tool",
@@ -242,10 +242,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-02T07:33:09Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10490,
+            "stars": 10493,
             "topics": [
               "cron",
               "cron-jobs",
@@ -279,7 +279,7 @@
             "open_issues": 992,
             "owner": "atom",
             "repo": "atom",
-            "stars": 60703,
+            "stars": 60705,
             "topics": [
               "atom",
               "editor",
@@ -308,7 +308,7 @@
             "open_issues": 457,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71397,
+            "stars": 71392,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -376,7 +376,7 @@
             "id": 9432220,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-02T11:07:06Z",
+            "last_commit": "2026-11-02T23:39:28Z",
             "open_issues": 1486,
             "owner": "wesnoth",
             "repo": "wesnoth",
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T12:22:47.528Z",
+    "last_updated": "2026-11-03T11:55:00.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",
