@@ -18,7 +18,7 @@
             "open_issues": 613,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13659,
+            "stars": 13660,
             "topics": [
               "angular",
               "codesandbox",
@@ -87,11 +87,11 @@
             "id": 9852918,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T10:21:49Z",
-            "open_issues": 238,
+            "last_commit": "2026-11-15T10:20:51Z",
+            "open_issues": 240,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55815,
+            "stars": 55825,
             "topics": [
               "blogging",
               "cms",
@@ -121,7 +121,7 @@
             "open_issues": 36,
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24564,
+            "stars": 24566,
             "topics": [
               "gitlab",
               "rails",
@@ -143,7 +143,7 @@
             "language": "Ruby",
             "license": "GPL-2.0",
             "last_commit": "2026-11-14T02:48:58Z",
-            "open_issues": 311,
+            "open_issues": 309,
             "owner": "discourse",
             "repo": "discourse",
             "stars": 48085,
@@ -175,7 +175,7 @@
             "open_issues": 131,
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14903,
+            "stars": 14906,
             "topics": [
               "archiving",
               "azure",
@@ -212,11 +212,11 @@
             "id": 86756976,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T19:10:27Z",
+            "last_commit": "2026-11-14T18:20:26Z",
             "open_issues": 38,
             "owner": "dnote",
             "repo": "dnote",
-            "stars": 3095,
+            "stars": 3096,
             "topics": [
               "cli",
               "command-line-tool",
@@ -245,7 +245,7 @@
             "open_issues": 55,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10516,
+            "stars": 10518,
             "topics": [
               "cron",
               "cron-jobs",
@@ -279,7 +279,7 @@
             "open_issues": 993,
             "owner": "atom",
             "repo": "atom",
-            "stars": 60691,
+            "stars": 60693,
             "topics": [
               "atom",
               "editor",
@@ -308,7 +308,7 @@
             "open_issues": 457,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71319,
+            "stars": 71312,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -376,11 +376,11 @@
             "id": 9432220,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-13T03:59:12Z",
-            "open_issues": 1474,
+            "last_commit": "2026-11-15T11:54:27Z",
+            "open_issues": 1465,
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6997,
+            "stars": 6998,
             "topics": [
               "fantasy",
               "free",
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:27:32.689Z",
+    "last_updated": "2026-11-15T11:56:22.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",
@@ -410,7 +410,7 @@
       "open_issues": 8,
       "owner": "DataDaoDe",
       "repo": "awesome-foss-apps",
-      "stars": 393,
+      "stars": 394,
       "topics": []
     },
     "original_repository_sha": "714a2815df908e79e3b4ff7d2e30963d910bcf80",
