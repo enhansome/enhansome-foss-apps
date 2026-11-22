@@ -4,7 +4,7 @@
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,270 | 🐛 103 | 📅 2026-09-02.*
+*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,813 | 🐛 103 | 📅 2026-09-02.*
 
 ## TOC
 
@@ -50,7 +50,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,872 | 🐛 259 | 🌐 TypeScript | 📅 2026-11-21
+### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,878 | 🐛 260 | 🌐 TypeScript | 📅 2026-11-22
 
 * node, express, ember
 * MIT License
@@ -64,7 +64,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 48,105 | 🐛 315 | 🌐 Ruby | 📅 2026-11-21
+### [Discourse](https://github.com/discourse/discourse) ⭐ 48,107 | 🐛 327 | 🌐 Ruby | 📅 2026-11-22
 
 * ruby, rails, ember
 * GPLv2 License
@@ -106,7 +106,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.
 
-### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,539 | 🐛 56 | 🌐 Python | 📅 2026-11-20
+### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,539 | 🐛 57 | 🌐 Python | 📅 2026-11-20
 
 * python, django, postgresql
 * BSD License
@@ -155,14 +155,14 @@ This list is for developers who are looking for non-trivial quality applications
 
 > 0 A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.
 
-### [Hedgewars](https://github.com/hedgewars/hw) ⭐ 576 | 🐛 8 | 🌐 Lua | 📅 2026-11-21
+### [Hedgewars](https://github.com/hedgewars/hw) ⭐ 577 | 🐛 8 | 🌐 Lua | 📅 2026-11-21
 
 * c, c++, pascal, haskell
 * GPLv2 License
 
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
-### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 7,001 | 🐛 1,463 | 🌐 C++ | 📅 2026-11-21
+### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 7,002 | 🐛 1,460 | 🌐 C++ | 📅 2026-11-22
 
 * c, c++, lua
 * GPLv2 License
@@ -177,4 +177,4 @@ To the extent possible under law, John Faucett has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
