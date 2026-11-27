@@ -18,7 +18,7 @@
             "open_issues": 616,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13663,
+            "stars": 13661,
             "topics": [
               "angular",
               "codesandbox",
@@ -64,11 +64,11 @@
             "id": 4370755,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T13:35:58Z",
+            "last_commit": "2026-11-27T13:11:26Z",
             "open_issues": 191,
             "owner": "guardian",
             "repo": "frontend",
-            "stars": 5897,
+            "stars": 5896,
             "topics": [
               "production"
             ]
@@ -87,11 +87,11 @@
             "id": 9852918,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T13:46:27Z",
+            "last_commit": "2026-11-27T13:12:40Z",
             "open_issues": 275,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55923,
+            "stars": 55943,
             "topics": [
               "blogging",
               "cms",
@@ -142,11 +142,11 @@
             "id": 7569578,
             "language": "Ruby",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-26T13:47:08Z",
-            "open_issues": 336,
+            "last_commit": "2026-11-27T13:40:32Z",
+            "open_issues": 350,
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 48117,
+            "stars": 48124,
             "topics": [
               "discourse",
               "ember",
@@ -175,7 +175,7 @@
             "open_issues": 132,
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14928,
+            "stars": 14932,
             "topics": [
               "archiving",
               "azure",
@@ -213,7 +213,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T18:20:26Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "dnote",
             "repo": "dnote",
             "stars": 3099,
@@ -242,10 +242,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-23T09:18:51Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10555,
+            "stars": 10561,
             "topics": [
               "cron",
               "cron-jobs",
@@ -279,7 +279,7 @@
             "open_issues": 993,
             "owner": "atom",
             "repo": "atom",
-            "stars": 60681,
+            "stars": 60677,
             "topics": [
               "atom",
               "editor",
@@ -308,7 +308,7 @@
             "open_issues": 457,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71270,
+            "stars": 71265,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -338,7 +338,7 @@
             "open_issues": 0,
             "owner": "0ad",
             "repo": "0ad",
-            "stars": 2828,
+            "stars": 2829,
             "topics": []
           },
           "title": "0ad",
@@ -359,7 +359,7 @@
             "open_issues": 8,
             "owner": "hedgewars",
             "repo": "hw",
-            "stars": 578,
+            "stars": 579,
             "topics": []
           },
           "title": "Hedgewars",
@@ -377,10 +377,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-11-26T13:04:03Z",
-            "open_issues": 1450,
+            "open_issues": 1452,
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 7011,
+            "stars": 7012,
             "topics": [
               "fantasy",
               "free",
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:52:57.084Z",
+    "last_updated": "2026-11-27T13:50:30.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome production grade free and open source software organized by category",

@@ -4,7 +4,7 @@
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,134 | 🐛 103 | 📅 2026-09-02.*
+*Inspired by Sindre Sorhus's [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,728 | 🐛 103 | 📅 2026-09-02.*
 
 ## TOC
 
@@ -18,7 +18,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Codesandbox](https://github.com/CompuIves/codesandbox-client) ⭐ 13,663 | 🐛 616 | 🌐 JavaScript | 📅 2026-10-22
+### [Codesandbox](https://github.com/CompuIves/codesandbox-client) ⭐ 13,661 | 🐛 616 | 🌐 JavaScript | 📅 2026-10-22
 
 * react, nginx, phoenix
 * GNU General Public License
@@ -39,7 +39,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Precursor is a highly interactive prototyping webapp. Its frontend is built from the ground up with clojurescript. The project has a simple enough routing and event passing system such that newer clojurescript developers could easily understand how routing in clojurescript applications can work. It is also full of many examples of how to build a component based frontend architecture that is part of an interactive graphics application i.e. where many components manipulate the HTML5 canvas or work with HTML5 APIs.
 
-### [The Guardian](https://github.com/guardian/frontend) ⭐ 5,897 | 🐛 191 | 🌐 Scala | 📅 2026-11-26
+### [The Guardian](https://github.com/guardian/frontend) ⭐ 5,896 | 🐛 191 | 🌐 Scala | 📅 2026-11-27
 
 * play2, scala, node
 * Apache 2.0 License
@@ -50,7 +50,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 ***
 
-### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,923 | 🐛 275 | 🌐 TypeScript | 📅 2026-11-26
+### [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,943 | 🐛 275 | 🌐 TypeScript | 📅 2026-11-27
 
 * node, express, ember
 * MIT License
@@ -64,7 +64,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse](https://github.com/discourse/discourse) ⭐ 48,117 | 🐛 336 | 🌐 Ruby | 📅 2026-11-26
+### [Discourse](https://github.com/discourse/discourse) ⭐ 48,124 | 🐛 350 | 🌐 Ruby | 📅 2026-11-27
 
 * ruby, rails, ember
 * GPLv2 License
@@ -92,21 +92,21 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Travis CI is a continutous integration and deployment system. What's great about Travis is its modular architecture, every component of this large distributed system is split up by its main function. From worker management, rails backend, emberjs frontend to yaml configuration parser, each is split up into there own repositories.
 
-### [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,928 | 🐛 132 | 🌐 Go | 📅 2026-11-26
+### [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,932 | 🐛 132 | 🌐 Go | 📅 2026-11-26
 
 * golang, react
 * AGPLv3 License
 
 > Filestash is a web based file manager that supports a range of protocols and platforms: FTP, SFTP, S3, Minio, Git, WebDAV, Backblaze, Dropbox, Google Drive, LDAP, CalDAV, CardDAV.
 
-### [Dnote](https://github.com/dnote/dnote) ⭐ 3,099 | 🐛 40 | 🌐 Go | 📅 2026-11-14
+### [Dnote](https://github.com/dnote/dnote) ⭐ 3,099 | 🐛 41 | 🌐 Go | 📅 2026-11-14
 
 * golang, react, typescript
 * GPLv3 License, AGPLv3 License
 
 > Dnote is a free and open source command line note-taking software that supports a scalable data synchronization among an unlimited number of devices and a mobile-first web interface that can also be installed as a Progressive Web App on mobile devices.
 
-### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,555 | 🐛 57 | 🌐 Python | 📅 2026-11-23
+### [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,561 | 🐛 58 | 🌐 Python | 📅 2026-11-23
 
 * python, django, postgresql
 * BSD License
@@ -155,14 +155,14 @@ This list is for developers who are looking for non-trivial quality applications
 
 > 0 A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.
 
-### [Hedgewars](https://github.com/hedgewars/hw) ⭐ 578 | 🐛 8 | 🌐 Lua | 📅 2026-11-25
+### [Hedgewars](https://github.com/hedgewars/hw) ⭐ 579 | 🐛 8 | 🌐 Lua | 📅 2026-11-25
 
 * c, c++, pascal, haskell
 * GPLv2 License
 
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
-### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 7,011 | 🐛 1,450 | 🌐 C++ | 📅 2026-11-26
+### [Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 7,012 | 🐛 1,452 | 🌐 C++ | 📅 2026-11-26
 
 * c, c++, lua
 * GPLv2 License
@@ -177,4 +177,4 @@ To the extent possible under law, John Faucett has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
